@@ -1,2 +1,2 @@
-# cli-authentication-example
-This is an on a CLI tool using Cobra and delegated tokens for authenticating to different backends.
+# CLI Authentication Example
+A sample Cobra-based CLI implementation that demonstrates delegated authentication for subcommands, each requesting scoped access tokens from Azure Entra ID.
